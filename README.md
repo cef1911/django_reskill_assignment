@@ -1,4 +1,4 @@
 # django_reskill_assignment
 
 ## JsonResponse Pic
-![JsonResponse Pic](django_assignment_jsonresponse.png)
+![JsonResponse Pic](images/django_assignment_jsonresponse.png)
